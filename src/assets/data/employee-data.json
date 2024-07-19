@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Cody Fisher",
+        "id" : "GADS01",
+        "type" : "New Employee",
+        "progress" : "1/5",
+        "status" : "In-Progress",
+        "startDate" : "10/6/13",
+        "unit" : "UIROLL Oy" , 
+        "hiringManager" : "Leslie Alexander"
+    },
+
+    {
+        "name": "Darrel Steward",
+        "id" : "GADS02",
+        "type" : "New Employee",
+        "progress" : "1/5",
+        "status" : "In-Progress",
+        "startDate" : "4/4/18",
+        "unit" : "UIROLL Infra" , 
+        "hiringManager" : "Darlene Robertson"
+    },
+
+    {
+        "name": "Brooklyn Simmens",
+        "id" : "GADS03",
+        "type" : "New Employee",
+        "progress" : "1/5",
+        "status" : "In-Progress",
+        "startDate" : "5/7/16",
+        "unit" : "UIROLL Rental" , 
+        "hiringManager" : "Jerome Bell"
+    },
+
+    {
+        "name": "Wode Warren",
+        "id" : "GADS04",
+        "type" : "Transitioning",
+        "progress" : "1/5",
+        "status" : "In-Progress",
+        "startDate" : "4/21/12",
+        "unit" : "UIROLL Oy" , 
+        "hiringManager" : "Theresa Web"
+    },
+
+    {
+        "name": "Jacob Jones",
+        "id" : "GADS05",
+        "type" : "New Employee",
+        "progress" : "1/5",
+        "status" : "In-Progress",
+        "startDate" : "1/15/12",
+        "unit" : "UIROLL CDF" , 
+        "hiringManager" : "Cody Fisher"
+    }
+]
